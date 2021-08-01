@@ -1,0 +1,21 @@
+{
+    "name": "leniathemes",
+    "displayName": "LeniaThemes",
+    "description": "Lenias best themes",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lenia Themes",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Lenia Themes-color-theme.json"
+            }
+        ]
+    }
+}
