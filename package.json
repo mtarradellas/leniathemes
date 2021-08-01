@@ -1,7 +1,7 @@
 {
-    "name": "leniathemes",
-    "displayName": "LeniaThemes",
-    "description": "Lenias best themes",
+    "name": "lenia-themes",
+    "displayName": "Lenia Themes",
+    "description": "Lenias Best Themes",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.58.0"
